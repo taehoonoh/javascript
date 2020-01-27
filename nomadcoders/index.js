@@ -8,7 +8,7 @@ console.log(b,a);
 
 /*
 String 1-8
-const what = "kiss";
+const what = "whywhy";
 
 console.log(what);
 */
