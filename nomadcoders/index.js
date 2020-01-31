@@ -53,4 +53,4 @@ const hoonInfo = {
     ]
 }
 // object(hoonInfo) 안에 Array(favFood) 가있고 그안에 Object(name:~~)
-console.log(hoonInfo.favFood[0].fatty)
+console.log(hoonInfo, console)
